@@ -178,20 +178,5 @@
     },
     "password": "13123123",
     "status": false
-  },
-  {
-    "id": 1776088944913,
-    "name": "sfdsdfsdfs",
-    "nip": "14141412",
-    "group": {
-      "label": "Admin",
-      "value": "admin"
-    },
-    "mulai": {
-      "label": "Admin",
-      "value": 6
-    },
-    "password": "1243414",
-    "status": false
   }
 ]
