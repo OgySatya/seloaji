@@ -163,20 +163,5 @@
     },
     "password": "adasdas",
     "status": false
-  },
-  {
-    "id": 1776087952640,
-    "name": "asd",
-    "nip": "asdas",
-    "group": {
-      "label": "Admin",
-      "value": "admin"
-    },
-    "mulai": {
-      "label": "Admin",
-      "value": 6
-    },
-    "password": "13123123",
-    "status": false
   }
 ]
