@@ -118,20 +118,5 @@
     "mulai": 1,
     "password": "197207252007011017",
     "status": false
-  },
-  {
-    "id": 1776171879223,
-    "name": "dsfsfsfs2",
-    "nip": "1123123123",
-    "group": {
-      "label": "Admin",
-      "value": "admin"
-    },
-    "mulai": {
-      "label": "Pagi Pertama",
-      "value": 1
-    },
-    "password": "12312312",
-    "status": false
   }
 ]
