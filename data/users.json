@@ -120,21 +120,6 @@
     "status": false
   },
   {
-    "id": 1776087301574,
-    "name": "kates",
-    "nip": "123123123",
-    "group": {
-      "label": "Admin",
-      "value": "admin"
-    },
-    "mulai": {
-      "label": "Pagi Pertama",
-      "value": 1
-    },
-    "password": "1231231231",
-    "status": false
-  },
-  {
     "id": 1776087516024,
     "name": "asdasd",
     "nip": "asdasda",
