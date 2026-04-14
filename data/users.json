@@ -135,21 +135,6 @@
     "status": false
   },
   {
-    "id": 1776087466148,
-    "name": "aaaaa",
-    "nip": "1124634",
-    "group": {
-      "label": "Admin",
-      "value": "admin"
-    },
-    "mulai": {
-      "label": "Admin",
-      "value": 6
-    },
-    "password": "asdasdasd",
-    "status": false
-  },
-  {
     "id": 1776087516024,
     "name": "asdasd",
     "nip": "asdasda",
