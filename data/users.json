@@ -118,5 +118,20 @@
     "mulai": 1,
     "password": "197207252007011017",
     "status": false
+  },
+  {
+    "id": 1776172510987,
+    "name": "asdasda",
+    "nip": "sadasd",
+    "group": {
+      "label": "Admin",
+      "value": "admin"
+    },
+    "mulai": {
+      "label": "Malam Pertama",
+      "value": 3
+    },
+    "password": "14124124",
+    "status": false
   }
 ]
