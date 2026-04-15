@@ -13,7 +13,7 @@
     "group": "a",
     "mulai": 3,
     "password": "197004292007011010",
-    "status": true
+    "status": false
   },
   {
     "name": "Katno",
@@ -29,7 +29,7 @@
     "group": "a",
     "mulai": 3,
     "password": "197801082008011012",
-    "status": true
+    "status": false
   },
   {
     "name": "Eko SB",
@@ -61,7 +61,7 @@
     "group": "b",
     "mulai": 5,
     "password": "197304172007011019",
-    "status": true
+    "status": false
   },
   {
     "name": "SUWITO",
@@ -69,7 +69,7 @@
     "group": "b",
     "mulai": 5,
     "password": "197909182008011015",
-    "status": true
+    "status": false
   },
   {
     "name": "WULAN AFRIAL CATUR KUNCORO",
