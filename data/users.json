@@ -41,7 +41,7 @@
   },
   {
     "name": "Langgeng",
-    "nip": 197605202025211015,
+    "nip": 197605202025211000,
     "group": "a",
     "mulai": 3,
     "password": "197605202025211015",
@@ -117,6 +117,15 @@
     "group": "c",
     "mulai": 1,
     "password": "197207252007011017",
+    "status": false
+  },
+  {
+    "id": 1776692998767,
+    "name": "aaaaa",
+    "nip": "111111",
+    "group": "admin",
+    "mulai": 6,
+    "password": "1112222",
     "status": false
   }
 ]
