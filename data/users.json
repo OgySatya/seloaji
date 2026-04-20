@@ -119,49 +119,4 @@
     "password": "197207252007011017",
     "status": false
   },
-  {
-    "id": 1776172510987,
-    "name": "asdasda",
-    "nip": "sadasd",
-    "group": {
-      "label": "Admin",
-      "value": "admin"
-    },
-    "mulai": {
-      "label": "Malam Pertama",
-      "value": 3
-    },
-    "password": "14124124",
-    "status": false
-  },
-  {
-    "id": 1776690410655,
-    "name": "ajumsca",
-    "nip": "23123123",
-    "group": {
-      "label": "Admin",
-      "value": "admin"
-    },
-    "mulai": {
-      "label": "Admin",
-      "value": 6
-    },
-    "password": "213213124124",
-    "status": false
-  },
-  {
-    "id": 1776690502879,
-    "name": "acacasc",
-    "nip": "12312312",
-    "group": {
-      "label": "Admin",
-      "value": "admin"
-    },
-    "mulai": {
-      "label": "Admin",
-      "value": 6
-    },
-    "password": "312312312312",
-    "status": false
-  }
 ]
