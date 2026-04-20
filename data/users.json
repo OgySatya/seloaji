@@ -133,5 +133,20 @@
     },
     "password": "14124124",
     "status": false
+  },
+  {
+    "id": 1776690410655,
+    "name": "ajumsca",
+    "nip": "23123123",
+    "group": {
+      "label": "Admin",
+      "value": "admin"
+    },
+    "mulai": {
+      "label": "Admin",
+      "value": 6
+    },
+    "password": "213213124124",
+    "status": false
   }
 ]
