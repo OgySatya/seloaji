@@ -5,7 +5,7 @@
     "group": "a",
     "mulai": 3,
     "password": "197804142008011016",
-    "status": false
+    "status": true
   },
   {
     "name": "Bayu Pratomo",
@@ -41,7 +41,7 @@
   },
   {
     "name": "Langgeng",
-    "nip": "197605202025211015",
+    "nip": 197605202025211015,
     "group": "a",
     "mulai": 3,
     "password": "197605202025211015",
@@ -118,5 +118,5 @@
     "mulai": 1,
     "password": "197207252007011017",
     "status": false
-  },
+  }
 ]
