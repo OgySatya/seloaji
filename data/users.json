@@ -118,5 +118,14 @@
     "mulai": 1,
     "password": "197207252007011017",
     "status": false
+  },
+  {
+    "id": 1776693860882,
+    "name": "aaaaaa",
+    "nip": "1111111",
+    "group": "admin",
+    "mulai": 6,
+    "password": "111111",
+    "status": false
   }
 ]
