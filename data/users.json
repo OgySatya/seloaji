@@ -126,6 +126,6 @@
     "group": "admin",
     "mulai": 6,
     "password": "1112222",
-    "status": false
+    "status": true
   }
 ]
