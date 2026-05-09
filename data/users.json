@@ -37,7 +37,7 @@
     "group": "a",
     "mulai": 3,
     "password": "197111132008011005",
-    "status": true
+    "status": false
   },
   {
     "name": "Langgeng",
@@ -45,7 +45,7 @@
     "group": "a",
     "mulai": 3,
     "password": "197605202025211015",
-    "status": true
+    "status": false
   },
   {
     "name": "Ogy Satya",
@@ -53,7 +53,7 @@
     "group": "b",
     "mulai": 5,
     "password": "199106192023211005",
-    "status": true
+    "status": false
   },
   {
     "name": "DARYANTO",
@@ -61,7 +61,7 @@
     "group": "b",
     "mulai": 5,
     "password": "197304172007011019",
-    "status": true
+    "status": false
   },
   {
     "name": "SUWITO",
@@ -69,7 +69,7 @@
     "group": "b",
     "mulai": 5,
     "password": "197909182008011015",
-    "status": true
+    "status": false
   },
   {
     "name": "WULAN AFRIAL CATUR KUNCORO",
@@ -77,7 +77,7 @@
     "group": "b",
     "mulai": 5,
     "password": "198004102008011018",
-    "status": true
+    "status": false
   },
   {
     "name": "ISNA R. KHOIRI",
@@ -85,7 +85,7 @@
     "group": "b",
     "mulai": 5,
     "password": "197909302009011006",
-    "status": true
+    "status": false
   },
   {
     "name": "DIGDO SUBROTO",
@@ -93,7 +93,7 @@
     "group": "c",
     "mulai": 1,
     "password": "197204222009011005",
-    "status": true
+    "status": false
   },
   {
     "name": "SUKOCO",
@@ -101,7 +101,7 @@
     "group": "c",
     "mulai": 1,
     "password": "198105022008011022",
-    "status": true
+    "status": false
   },
   {
     "name": "MARSUDI",
@@ -109,7 +109,7 @@
     "group": "c",
     "mulai": 1,
     "password": "197005202008011021",
-    "status": true
+    "status": false
   },
   {
     "name": "SUPARDI",
@@ -117,6 +117,6 @@
     "group": "c",
     "mulai": 1,
     "password": "197207252007011017",
-    "status": true
+    "status": false
   }
 ]
